@@ -1,4 +1,4 @@
-## ⭐️ 팀원
+## 팀원
 <table>
   <tr>
     <td align="center">
