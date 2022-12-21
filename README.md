@@ -57,9 +57,6 @@
     <td align="center">
       <img src="https://user-images.githubusercontent.com/62709718/208675588-1fc2c6ec-0a10-4496-b7de-39cfbfa5e7ab.png" width="100px;" alt=""/>
     </td>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/62709718/208675728-a22adf4f-d840-4289-a4a9-d80f6a2c7a13.png" width="100px;" alt=""/>
-    </td>
   </tr>
   <tr>    
     <td align="center">
@@ -75,11 +72,6 @@
     <td align="center">
       <a href="https://github.com/dong53358">
         <div>dong53358</div>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/hongseonga">
-        <div>hongseonga</div>
       </a>
     </td>
   </tr>
